@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(226, 238, 255);
+}
+
+.section-2{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+
+}
+
+.image-section{
+    margin: 10px;    
+}
+
+.image-section p {
+    text-align: center;
+
+}
+
+.image-section img{
+    border-radius:10% ;
+    margin: 0;
+    padding: 0;
+    height: auto;
+    width: 250px;
+}
+
+
+h2{
+    text-align: center;
+}
+
+.container-3 {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.container-4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-5{
+    text-align: center;
+}
+
