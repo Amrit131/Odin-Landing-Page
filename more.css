@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+
+body{
+    background-color: transparent;
+    margin: 0px;
+    font-family: "Merriweather", 'Cambria', 'Cochin', 'Georgia', Times, 'Times New Roman', serif;
+
+}
+
+.wrapper{
+    height: 350px;
+    margin: 0px;
+    background-color: #1f2937;
+}
+
+.first{
+    
+    gap:5em ;
+    height: 900px;
+    max-width: 900px;
+    margin: auto;
+    padding-top: 20px ;
+}
+
+#nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white; 
+}
+
+.Header a{
+    text-decoration: none;
+    color: white;
+}
+
+.Header a:hover{
+    color: #3882F6;
+}
+
+ul{
+    list-style-type: none;
+    gap: 2em;
+    font-size: 15px;
+}
+
+ul li:hover{
+    color: #3882F6;
+}
+.nav-links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.more{
+    max-width: 900px;
+    color: black;
+    font-size: 25px;
+    margin: auto;
+    text-align: left;
+    height: 900px;
+    font-weight: 700;
+}
+
+.more img{
+    width:200px;
+    height: 250px;
+    margin-left: 350px;
+    margin-top: 150px;
+}
+
+.section-4{
+    height: 230px;
+    margin: 0px;
+    background-color: #1f2937;
+}
+
+.container-4{
+    display: flex;
+    flex-flow: row wrap;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.container-4 img{
+    width: 25px;
+    height: 25px;
+    margin: 5px;
+}
+
+.contributors{
+    color: white;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 2em;
+    margin-top: 50px;
+    line-height: 0px;
+
+}
+
+.contributors a{
+    color: white;
+
+}
+
+.contributors a:hover{
+    color: #3882F6;
+    text-decoration: none;
+}
