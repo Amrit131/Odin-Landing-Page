@@ -1,4 +1,7 @@
 # Odin-Landing-Page
+
+https://nifty-dijkstra-0d2bae.netlify.app/index.html
+
 This is a project I did when I was doing The Odin Project Curriculum.
 
 
